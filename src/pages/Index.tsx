@@ -17,7 +17,7 @@ export default function Index() {
       <div className="w-full max-w-sm">
 
         <div className="mb-12">
-          <p className="font-display text-5xl font-light italic text-foreground/20 leading-none select-none">
+          <p className="font-sans text-4xl font-semibold not-italic text-blue-600 leading-none select-none tracking-tight">
             Prepayment 1xBet
           </p>
         </div>
