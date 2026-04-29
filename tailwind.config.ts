@@ -20,7 +20,7 @@ export default {
 		},
 		fontFamily: {
 			sans: ['IBM Plex Sans', 'sans-serif'],
-			display: ['IBM Plex Serif', 'serif'],
+			display: ['DM Mono', 'monospace'],
 		},
 		extend: {
 			colors: {

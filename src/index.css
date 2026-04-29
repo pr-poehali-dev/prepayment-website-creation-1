@@ -43,13 +43,13 @@
 
   body {
     @apply bg-background text-foreground;
-    font-family: "IBM Plex Sans", sans-serif;
+    font-family: "DM Mono", monospace;
   }
 }
 
 @layer utilities {
   .font-display {
-    font-family: "Cormorant", serif;
+    font-family: "DM Mono", monospace;
   }
 
   .animate-fade-in {
