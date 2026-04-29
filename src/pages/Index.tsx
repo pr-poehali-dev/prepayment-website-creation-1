@@ -80,23 +80,6 @@ export default function Index() {
 
         {step === "payment" && (
           <div className="space-y-8 animate-fade-in">
-            <div>
-              <p className="text-xs tracking-widest uppercase text-muted-foreground mb-5">
-                Payment
-              </p>
-              <p className="text-sm text-foreground leading-relaxed">
-                Make your prepayment here through{" "}
-                <a
-                  href="https://s.binance.com/6xiFAOVG"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="underline underline-offset-4 hover:text-muted-foreground transition-colors duration-200"
-                >
-                  USDT TRC20
-                </a>
-              </p>
-            </div>
-
             <div className="flex gap-3">
               <button
                 onClick={() => setStep("details")}
