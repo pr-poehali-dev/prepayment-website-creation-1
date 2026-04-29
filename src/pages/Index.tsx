@@ -47,7 +47,7 @@ export default function Index() {
         {step !== "success" && (
           <div className="mb-12">
             <p className="font-display text-5xl font-light italic text-foreground/20 leading-none select-none">
-              оплата
+              Prepayment 1xBet
             </p>
           </div>
         )}
