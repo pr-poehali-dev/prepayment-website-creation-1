@@ -19,8 +19,8 @@ export default {
 			}
 		},
 		fontFamily: {
-			sans: ['Golos Text', 'sans-serif'],
-			display: ['Cormorant', 'serif'],
+			sans: ['IBM Plex Sans', 'sans-serif'],
+			display: ['IBM Plex Serif', 'serif'],
 		},
 		extend: {
 			colors: {
